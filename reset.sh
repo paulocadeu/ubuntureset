@@ -9,6 +9,10 @@ source ~/.bashrc
 
 gsettings set com.canonical.Unity.Launcher launcher-position Bottom
 
+git clone https://github.com/paulocadeu/vimportable
+cd vimportable
+./install.sh
+
 echo "Reset concluido"
 
 
