@@ -12,9 +12,9 @@ git clone https://github.com/paulocadeu/vimportable
 cd vimportable
 ./install.sh
 cd ..
-rm vimportable
-source ~/.bashrc
 
+rm -rf vimportable
+source ~/.bashrc
 
 echo "Reset concluido"
 
