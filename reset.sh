@@ -17,5 +17,5 @@ rm -rf vimportable
 source ~/.bashrc
 
 echo "Reset concluido"
-
+systemctl reboot
 
